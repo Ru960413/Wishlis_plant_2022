@@ -1,0 +1,19 @@
+
+header{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    font-family: fantasy;
+}
+.content{
+    display: flex;
+    justify-content: center;
+}
+
+.category{
+    display: flex;
+    font-size: 30px;
+    font-family: sans-serif;
+    border: 3px darkblue;
+}
